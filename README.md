@@ -133,6 +133,7 @@ if(!isApp) {
 		console.log(`Spoofed your stream to ${applicationName}. Stream any window in vc for ${Math.ceil((secondsNeeded - secondsDone) / 60)} more minutes.`)
 		console.log("Remember that you need at least 1 other person to be in the vc!")
 	}
+}
 
  
 **3. منتظر پیام __Quest progress: 0 / 900__ میمونیم اگر این پیام بعد از پیست کردن کد بالا نوشته شد ، به معنای عملیات موفق تو اکسپت کردن تسکتون هست و منتظر بمونید تا تسکتون تکمیل شه :)**
