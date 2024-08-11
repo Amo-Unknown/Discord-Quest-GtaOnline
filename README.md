@@ -1,4 +1,5 @@
-[Download-Code-GtaOnline-Quest.txt](https://github.com/user-attachments/files/16573495/GtaOnline-Quest.txt) # Discord-Quest-GtaOnline
+[Download-Code-GtaOnline-Quest.txt](https://github.com/user-attachments/files/16573495/GtaOnline-Quest.txt)
+# Discord-Quest-GtaOnline
 
 **1) ابتدا برنامه VENCORD رو ریخته و با استفاده از دکمه های Ctrl + Shift + i وارد بخش دولوپر مود میشیم** 
 
@@ -122,7 +123,7 @@ if(!isApp) {
 	}
 
  
-}**4) منتظر پیام __Quest progress: 0 / 900__ میمونیم اگر این پیام بعد از پیست کردن کد بالا نوشته شد ، به معنای عملیات موفق تو اکسپت کردن تسکتون هست و منتظر بمونید تا تسکتون تکمیل شه :) **
+**(4) منتظر پیام __Quest progress: 0 / 900__ میمونیم اگر این پیام بعد از پیست کردن کد بالا نوشته شد ، به معنای عملیات موفق تو اکسپت کردن تسکتون هست و منتظر بمونید تا تسکتون تکمیل شه :)**
 
 By : amounknown
 
