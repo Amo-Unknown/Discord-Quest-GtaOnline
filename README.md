@@ -1,12 +1,12 @@
-# Discord-Quest-GtaOnline
+[message (1).txt](https://github.com/user-attachments/files/16573492/message.1.txt)# Discord-Quest-GtaOnline
 
 **1) ابتدا برنامه VENCORD رو ریخته و با استفاده از دکمه های Ctrl + Shift + i وارد بخش دولوپر مود میشیم** 
 
 **2) سپس به بخش Gift Inventory در ستینگ رفته و کوئست رو اکسپت میکنیم** 
 
  **3) سپس کد زیر رو تو بخش دولوپر مود پیست میکنیم** / **(کد زیر کاملا ایمن هستش و میتونید با بقیه کد ها مقایسشون کنید)**
-
- let wpRequire;
+ 
+[Ulet wpRequire;
 window.webpackChunkdiscord_app.push([[ Math.random() ], {}, (req) => { wpRequire = req; }]);
 
 let ApplicationStreamingStore, RunningGameStore, QuestsStore, ExperimentStore, FluxDispatcher, api
@@ -116,7 +116,11 @@ if(!isApp) {
 		console.log(`Spoofed your stream to ${applicationName}. Stream any window in vc for ${Math.ceil((secondsNeeded - secondsDone) / 60)} more minutes.`)
 		console.log("Remember that you need at least 1 other person to be in the vc!")
 	}
-}
+}ploading message (1).txt…]()
 
-**4) منتظر پیام __Quest progress: 0 / 900__ میمونیم اگر این پیام بعد از پیست کردن کد بالا نوشته شد ، به معنای عملیات موفق تو اکسپت کردن تسکتون هست و منتظر بمونید تا تسکتون تکمیل شه** D: 
+
+
+**4) منتظر پیام __Quest progress: 0 / 900__ میمونیم اگر این پیام بعد از پیست کردن کد بالا نوشته شد ، به معنای عملیات موفق تو اکسپت کردن تسکتون هست و منتظر بمونید تا تسکتون تکمیل شه :) **
+
 By : amounknown
+
